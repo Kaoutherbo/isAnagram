@@ -6,8 +6,6 @@ int main() {
 char *word1 = getString("Enter the first word ");
 char *word2 = getString("Enter the second word ");
 
-    printf("%s",word1);
-    printf("%s",word2);
 
 if (isAnagram(word1, word2))
 {
