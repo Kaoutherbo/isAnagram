@@ -7,3 +7,12 @@ Anagram Checker is a simple C program that allows you to check if two words are 
 - Safely input two words using a custom `getString` function.
 - Handles input errors and memory management.
 - Simple and easy-to-understand code.
+  
+  **Compile the file :**
+  ```bash
+  gcc main.c getString.c isAnagram.c -o main
+  ```
+  **Run the program:**
+   ```bash
+   ./main
+  ```
