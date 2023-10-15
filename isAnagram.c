@@ -1,5 +1,6 @@
 #include"main.h"
 
+
 bool isAnagram(char *word1, char *word2) {
     int count1[256] = {0};  // Initialize an array to store character counts for word1.
     int count2[256] = {0};  // Initialize an array to store character counts for word2.
