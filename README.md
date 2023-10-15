@@ -16,3 +16,5 @@ Anagram Checker is a simple C program that allows you to check if two words are 
    ```bash
    ./main
   ```
+
+  
