@@ -28,4 +28,3 @@ bool isAnagram(char *word1, char *word2) {
 
     return true;  // If counts are equal for all characters, they are anagrams.
 }
-
